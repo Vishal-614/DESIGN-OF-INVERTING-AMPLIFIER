@@ -37,8 +37,13 @@ Inverting amplifier:
 ## MODEL GRAPH
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
-## TABULATION
+## TABULATION:
+![IC TABLE !](https://github.com/user-attachments/assets/9902214f-add0-4529-a06e-4f33d9e1d305)
+
 
 ## GRAPH
+![IC EXP ! GRAPH](https://github.com/user-attachments/assets/11ca2bfb-9634-4e34-96f9-c58af08c598d)
+
 
 ## RESULT:
+Thus the inverting amplifier is designed and performed successfully by OP-AMP IC741
